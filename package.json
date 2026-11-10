@@ -1,0 +1,10 @@
+{
+  "name": "truco-paulista",
+  "version": "1.0.0",
+  "description": "Truco Paulista em duplas com casos de teste",
+  "main": "truco.js",
+  "scripts": {
+    "test": "node --test truco.test.js",
+    "jogar": "node jogar.js"
+  }
+}
